@@ -32,7 +32,7 @@ REGOLE
  Scriti il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
-let somma = 6 + 4;
+let somma = 12 + 20;
 console.log(somma);
 
 /* ESERCIZIO 4
